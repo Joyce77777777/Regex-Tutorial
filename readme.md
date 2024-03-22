@@ -1,4 +1,4 @@
-# Regex Tutorial
+# Regex Tutorial: Matching an Email Regular Expression
 
 ## Description
 In this Regex Tutorial, you will learn how to validate email addresses using the featured regular expression `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`. The tutorial provides a comprehensive breakdown and explanation of each component within the regex, simplifying the validation process for easy understanding. Upon completing this tutorial, you will gain a deeper comprehension of how the regex functions to validate and confirm the entry of a valid email address.
